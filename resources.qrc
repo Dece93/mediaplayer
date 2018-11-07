@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/folder_page_white.jpg</file>
+        <file>icons/A4-en-zhaw-zav-rgb.png</file>
+        <file>icons/en-zhaw-idp-rgb.png</file>
+    </qresource>
+</RCC>
